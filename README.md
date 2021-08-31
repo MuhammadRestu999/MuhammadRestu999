@@ -1,16 +1,32 @@
-### Hi there 👋
+# Hi I'm Restu&nbsp;<a href="Hey"><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px"></a>
+- IM from Indonesian🇮🇩
 
-<!--
-**MuhammadRestu999/MuhammadRestu999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![logo](https://user-images.githubusercontent.com/88314302/131332636-2639910c-d015-4fd5-807d-d5a677a53626.jpg)
 
-Here are some ideas to get you started:
+<p align="center"> <a href="Rizxyu"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=Rizxyu&label=PROFILE%20VISITORS&color=green&style=flat-square" alt="Rizxyu" /></a> </p><br> 
+<div align="center">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rizxyu&show_icons=true&theme=nightowl" alt="Rizxyu" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizxyu&theme=algolia&layout=compact&langs_count=10&hide_border=true&show_icons=true" alt="Rizxyu"/></p></a><br> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+
+
+# Contact Me & My bot Whatsapp
+* my wa👤 <a href="https://wa.me/6285783417029" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?&style=flat-square&logo=whatsapp&logoColor=white" alt="whatsapp"></a>
+* 👾Bot WhatsApp <a href="https://wa.me/6285273901246" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?&style=flat-square&logo=whatsapp&logoColor=white" alt="Bot Whatsapp"></a>
+
+# i have youtube too :trollface:
+<p align="center">
+    * Youtube stats badges
+    <br />
+    <br />
+    <a href="https://youtube.com/channel/UCj-s_sWqCclC-fPsQ001QCA">
+      <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/></a> 
+    <a href="https://youtube.com/channel/UCj-s_sWqCclC-fPsQ001QCA">
+      <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge.php?label=View+Count&style=for-the-badge&color=blue&labelColor=0b689d"/></a>
+   </p>
+</p>
