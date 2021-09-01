@@ -1,5 +1,5 @@
 # Hi I'm Restu&nbsp;<a href="Hey"><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px"></a>
-- IM from Indonesian🇮🇩
+- I'm from Indonesian🇮🇩
 
 ![logo](https://user-images.githubusercontent.com/88314302/131332636-2639910c-d015-4fd5-807d-d5a677a53626.jpg)
 
@@ -17,6 +17,7 @@
 
 # Contact Me & My bot Whatsapp
 * my wa👤 <a href="https://wa.me/6285783417029" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?&style=flat-square&logo=whatsapp&logoColor=white" alt="whatsapp"></a>
+* Instagram <a href="https://www.instagram.com/_muhammad.restu_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 * 👾Bot WhatsApp <a href="https://wa.me/6285273901246" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?&style=flat-square&logo=whatsapp&logoColor=white" alt="Bot Whatsapp"></a>
 
 # i have youtube too :trollface:
