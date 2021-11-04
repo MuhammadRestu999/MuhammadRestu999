@@ -1,7 +1,7 @@
 # Hi I'm Restu&nbsp;<a href="Hey"><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px"></a>
 - I'm from Indonesian🇮🇩
 
-![logo](https://user-images.githubusercontent.com/88314302/131332636-2639910c-d015-4fd5-807d-d5a677a53626.jpg)
+![logo](https://telegra.ph/file/d173e80a38443114f9608.jpg)
 
 <p align="center"> <a href="MuhammadRestu999"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=MuhammadRestu999&label=PROFILE%20VISITORS&color=green&style=flat-square" alt="MuhammadRestu999" /></a> </p><br> 
 <div align="center">
