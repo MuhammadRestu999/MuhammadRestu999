@@ -16,6 +16,15 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
+# About me
+* Name : Muhammad Restu
+* Mother's name: Sri Mastutik
+* Father's name: Riki Nurahman
+* Age : 1* y.o
+* Place & year of birth : Indonesia => South Sumatra => Belitang, 200*-11-08
+* Gender : Man
+* my girlfriend : Rina Septiani
+
 # Contact Me & My bot Whatsapp
 * my wa👤 <a href="https://wa.me/6285783417029" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?&style=flat-square&logo=whatsapp&logoColor=white" alt="whatsapp"></a>
 * Instagram <a href="https://www.instagram.com/_muhammad.restu_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
