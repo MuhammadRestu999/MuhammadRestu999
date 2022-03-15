@@ -18,11 +18,10 @@
 
 
 # About me
-* Name : Muhammad Restu
-* Mother's name: Sri Mastutik
-* Father's name: Riki Nurahman
-* Age : 1* y.o
-* Place & year of birth : Indonesia => South Sumatra => Belitang, 200*-11-08
+* Name : Restu
+* Full name : Muhammad Restu
+* Age : 13 y.o
+* Place & year of birth : Indonesia => South Sumatra => Belitang, 2008-11-08
 * Gender : Man
 * My girlfriend : Rina Septiani
 
