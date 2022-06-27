@@ -23,7 +23,6 @@
 * Age : 13 y.o
 * Place & year of birth : Indonesia => South Sumatra => Belitang, 2008-11-08
 * Gender : Man
-* My girlfriend : Rina Septiani
 
 
 # Contact Me & My bot Whatsapp
