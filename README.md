@@ -21,14 +21,13 @@
 * Name : Restu
 * Full name : Muhammad Restu
 * Age : 13 y.o
-* Place & year of birth : Indonesia => South Sumatra => Belitang, 2008-11-08
-* Gender : Man
+* Birth : 2008-11-08
+* Gender : Male
 
 
-# Contact Me & My bot Whatsapp
-* My WhatsApp 👤 <a href="https://wa.me/6285783417029" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?&style=flat-square&logo=whatsapp&logoColor=white" alt="whatsapp"></a>
+# Social media
+* WahtsApp <a href="https://api.whatsapp.com/send?phone=6285783417029" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?&style=flat-square&logo=whatsapp&logoColor=white" alt="whatsapp"></a>
 * Instagram <a href="https://www.instagram.com/_muhammad.restu_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-* 👾Bot WhatsApp <a href="https://wa.me/6285273901246" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?&style=flat-square&logo=whatsapp&logoColor=white" alt="Bot Whatsapp"></a>
 * Facebook <a href="https://facebook.com/mohamad.restu.71/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 
 
