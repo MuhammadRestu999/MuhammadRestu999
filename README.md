@@ -6,7 +6,7 @@
 <br>
 <div>
   <a href="https://git.io/typing-svg">
-    <img src="http://readme-typing-svg.herokuapp.com?font=Mulish&duration=1500&pause=500&repeat=false&width=435&lines=Kon'nichiwa!;Watashi+no+namae+wa+Restu+desu;Yoroshiku+onegaishimasu">
+    <img src="http://readme-typing-svg.herokuapp.com?font=Mulish&duration=1500&pause=500&repeat=true&width=435&lines=Kon'nichiwa!;Watashi+no+namae+wa+Restu+desu;Yoroshiku+onegaishimasu">
   </a>
 </div>
 <br>
