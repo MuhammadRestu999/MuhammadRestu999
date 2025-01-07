@@ -13,7 +13,7 @@
 <div>
   <h1>About Me</h1>
   <ul>
-    <li>👦 I'm a 15 year old kid who wants to be able to code</li>
+    <li>👦 I'm a 16 year old kid who wants to be able to code</li>
     <li>🗓️ I was born on 2008-11-08</li>
     <li>🎓 I'm currently learning Ruby</li>
     <li>📝 The programming languages ​​that I know are JavaScript, Python (A little), Python2 (A little), Ruby (Still learning), HTML, CSS (A little), and Bash</li>
